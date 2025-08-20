@@ -1,20 +1,25 @@
-<!-- Banner ou título -->
-<h1 align="center">👋🏽 Olá, eu sou o David Veiga</h1>
-<h3 align="center">Fullstack Developer | Estudante de Engenharia Eletrotécnica de Computadores | Autor</h3>
+<!-- Banner ou Greeting -->
+<h1 align="center">👋 Olá, eu sou o David Veiga</h1>
+<h3 align="center">Fullstack Developer | Eng. Eletrotécnica de Computadores | Autor</h3>
 
 ---
 
-## 🚀 Sobre mim
-Sou **Fullstack Developer** na [ideia.cv](https://ideia.cv), apaixonado por transformar ideias em soluções digitais.  
-Atualmente estudo **Engenharia Eletrotécnica de Computadores** na **Universidade de Cabo Verde** e dedico meu tempo livre a explorar **arquitetura de computadores, análise de circuitos, algoritmos em C** e ao desenvolvimento de **sistemas de gestão (POS, hotelaria, e-commerce, etc.)**.  
+## 🚀 Sobre mim  
+💻 Desenvolvedor **Fullstack**.
 
-Também crio conteúdo no **[BlogDavid](https://github.com/blogdavid)** e já publiquei livros voltados para tecnologia e programação.  
+🏢 Atualmente trabalho na **[ideia.cv](https://ideia.cv)**, criando soluções digitais para empresas em Cabo Verde.  
+
+📚 Estudante de **Engenharia Eletrotécnica de Computadores** na **Universidade de Cabo Verde (UniCV)**.  
+
+✍️ Autor de livros e criador de conteúdo no **[BlogDavid](https://blogdavid.vercel.app)**, onde compartilho sobre **programação, tecnologia e inovação**.  
+ 
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,14 +56,16 @@ Também crio conteúdo no **[BlogDavid](https://github.com/blogdavid)** e já pu
 
 <!-- Snake animation -->
 <p align="center">
- <img src="https://github.com/davidideacv/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
 
 ## 🌍 Onde me encontrar
-- ✍️ [Blog David](https://github.com/blogdavid)  
-- 💼 [LinkedIn](https://www.linkedin.com) _(adicionar depois)_  
 - ✉️ **david.veiga@ideiacv.com**  
 
 ---
