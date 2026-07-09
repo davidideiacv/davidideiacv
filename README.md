@@ -1,18 +1,22 @@
 <!-- Banner ou Greeting -->
 <h1 align="center">👋 Olá, eu sou o David Veiga</h1>
-<h3 align="center">Fullstack Developer | Eng. Eletrotécnica de Computadores | Autor</h3>
+<h3 align="center">Full Stack Developer | Graduando em Eng. Eletrotécnica e de Computadores | Autor</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_USER_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:david.veiga@ideiacv.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://blogdavid.vercel.app"><img src="https://img.shields.io/badge/Blog-12100E?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"></a>
+</p>
 
 ---
 
-## 🚀 Sobre mim  
-💻 Desenvolvedor **Fullstack**.
+## 🚀 Sobre Mim
 
-🏢 Atualmente trabalho na **[ideia.cv](https://ideia.cv)**, criando soluções digitais para empresas em Cabo Verde.  
+Sou um desenvolvedor **Full Stack** focado em construir soluções digitais robustas, eficientes e escaláveis. Atualmente, faço parte da equipe da **[ideia.cv](https://ideia.cv)**, onde atuo no desenvolvimento de produtos de software voltados para a inovação e modernização de empresas em Cabo Verde.
 
-📚 Estudante de **Engenharia Eletrotécnica de Computadores** na **Universidade de Cabo Verde (UniCV)**.  
+Paralelamente à minha atuação no mercado, sou graduando em **Engenharia Eletrotécnica e de Computadores** na **Universidade de Cabo Verde (UniCV)**, o que me proporciona uma sólida base analítica e compreensão profunda da integração entre hardware e software. 
 
-✍️ Autor de livros e criador de conteúdo no **[BlogDavid](https://blogdavid.vercel.app)**, onde compartilho sobre **programação, tecnologia e inovação**.  
- 
+Também sou apaixonado por compartilhar conhecimento: escrevo livros e crio conteúdos técnicos no **[BlogDavid](https://blogdavid.vercel.app)**, abordando programação, arquitetura de sistemas e tendências tecnológicas.
 
 ---
 
@@ -30,24 +34,24 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados & Desktop
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ Desktop Apps
 ![Electron](https://img.shields.io/badge/Electron-2E2E2E?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
-### 🛠️ DevOps & Ferramentas
+### 🛠️ DevOps & Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas e Atividades
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 </p>
 
 <p align="center">
@@ -55,19 +59,20 @@
 </p>
 
 <!-- Snake animation -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidideiacv&repo=NOME_DO_SEU_REPOSITORIO&theme=tokyonight&hide_border=true" alt="Projeto em Destaque" />
+</p> -->
 
 ---
 
-## 🌍 Onde me encontrar
-- ✉️ **david.veiga@ideiacv.com**  
+## 📬 Vamos nos conectar?
+
+Se você deseja conversar sobre desenvolvimento de software, engenharia de computadores ou novos projetos, sinta-se à vontade para entrar em contato:
+
+- 🌐 **Blog Pessoal:** [blogdavid.vercel.app](https://blogdavid.vercel.app)
+- ✉️ **E-mail Profissional:** david.veiga@ideiacv.com
+- 💼 **LinkedIn:** [linkedin.com/in/SEU_USER_AQUI](https://www.linkedin.com)
 
 ---
 
-<h4 align="center">✨ “A tecnologia é a ponte entre ideias e realidade.” ✨</h4>
+<h4 align="center">"A tecnologia é a ponte entre as grandes ideias e a realidade."</h4>
