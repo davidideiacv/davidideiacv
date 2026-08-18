@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Developer · Eng. Eletrotécnica e de Computadores (UniCV) · Autor</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Building%20%40-ideia.cv-7aa2f7?style=flat-square" alt="Building at ideia.cv">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/david-silva-048b1021a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:david.veiga@ideiacv.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.blogdavid.cv"><img src="https://img.shields.io/badge/Blog-12100E?style=flat-square" alt="Blog"></a>
@@ -44,9 +48,15 @@ Escrevo sobre isso no **[BlogDavid](https://www.blogdavid.cv)**, e também em fo
 
 ---
 
-### Projeto em destaque
+### Contribuições
 
-**[BlogDavid](https://www.blogdavid.cv)** — o meu espaço técnico, no ar em domínio próprio: programação, arquitetura de sistemas e a ponte entre hardware e software.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg" />
+    <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/davidideiacv/davidideiacv/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -57,8 +67,17 @@ Escrevo sobre isso no **[BlogDavid](https://www.blogdavid.cv)**, e também em fo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidideiacv&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=davidideiacv&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+### Projeto em destaque
+
+**[BlogDavid](https://www.blogdavid.cv)** — o meu espaço técnico, no ar em domínio próprio: programação, arquitetura de sistemas e a ponte entre hardware e software.
 
 ---
 
