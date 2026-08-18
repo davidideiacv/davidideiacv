@@ -63,8 +63,8 @@ Escrevo sobre isso no **[BlogDavid](https://www.blogdavid.cv)**, e também em fo
 ### Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidideiacv&theme=tokyo-night&hide_border=true" width="100%"/>
