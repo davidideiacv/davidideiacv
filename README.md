@@ -1,78 +1,71 @@
-<!-- Banner ou Greeting -->
-<h1 align="center">👋 Olá, eu sou o David Veiga</h1>
-<h3 align="center">Full Stack Developer | Graduando em Eng. Eletrotécnica e de Computadores | Autor</h3>
+<h1 align="center">David Veiga</h1>
+<h3 align="center">Full Stack Developer · Eng. Eletrotécnica e de Computadores (UniCV) · Autor</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/david-silva-048b1021a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:david.veiga@ideiacv.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://blogdavid.vercel.app"><img src="https://img.shields.io/badge/Blog-12100E?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"></a>
+  <a href="https://www.blogdavid.cv"><img src="https://img.shields.io/badge/Blog-12100E?style=flat-square" alt="Blog"></a>
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+### Sobre
 
-Sou um desenvolvedor **Full Stack** focado em construir soluções digitais robustas, eficientes e escaláveis. Atualmente, faço parte da equipe da **[ideia.cv](https://ideia.cv)**, onde atuo no desenvolvimento de produtos de software voltados para a inovação e modernização de empresas em Cabo Verde.
+Construo software para empresas em Cabo Verde na **[ideia.cv](https://ideia.cv)** — do frontend ao deploy, com foco em produtos que precisam durar, não só funcionar no dia do lançamento.
 
-Paralelamente à minha atuação no mercado, sou graduando em **Engenharia Eletrotécnica e de Computadores** na **Universidade de Cabo Verde (UniCV)**, o que me proporciona uma sólida base analítica e compreensão profunda da integração entre hardware e software. 
+A base é pouco comum: estou a terminar **Engenharia Eletrotécnica e de Computadores** na Universidade de Cabo Verde, o que muda como penso sobre software — entendo o que acontece abaixo da camada de aplicação, não só acima dela.
 
-Também sou apaixonado por compartilhar conhecimento: escrevo livros e crio conteúdos técnicos no **[BlogDavid](https://blogdavid.vercel.app)**, abordando programação, arquitetura de sistemas e tendências tecnológicas.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Banco de Dados & Desktop
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2E2E2E?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
-### 🛠️ DevOps & Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+Escrevo sobre isso no **[BlogDavid](https://www.blogdavid.cv)**, e também em formato de livro, traduzindo arquitetura de sistemas e tendências técnicas para quem está a começar.
 
 ---
 
-## 📊 Estatísticas e Atividades
+### Stack
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Dados & Desktop**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2E2E2E?style=flat-square&logo=electron&logoColor=9FEAF9)
+
+**Infraestrutura**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+### Projeto em destaque
+
+**[BlogDavid](https://www.blogdavid.cv)** — o meu espaço técnico, no ar em domínio próprio: programação, arquitetura de sistemas e a ponte entre hardware e software.
+
+---
+
+### Atividade
 
 <p align="center">
-  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidideiacv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidideiacv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-</p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=davidideiacv&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=davidideiacv&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<!-- Snake animation -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidideiacv&repo=NOME_DO_SEU_REPOSITORIO&theme=tokyonight&hide_border=true" alt="Projeto em Destaque" />
-</p> -->
-
 ---
 
-## 📬 Vamos nos conectar?
+### Vamos falar?
 
-Se você deseja conversar sobre desenvolvimento de software, engenharia de computadores ou novos projetos, sinta-se à vontade para entrar em contato:
+Aberto a conversar sobre projetos full stack, colaborações técnicas, ou trocar ideias sobre a fronteira entre eletrónica e software.
 
-- 🌐 **Blog Pessoal:** [blogdavid.vercel.app](https://blogdavid.vercel.app)
-- ✉️ **E-mail Profissional:** david.veiga@ideiacv.com
-- 💼 **LinkedIn:** [linkedin.com/in/SEU_USER_AQUI](https://www.linkedin.com)
+📧 [david.veiga@ideiacv.com](mailto:david.veiga@ideiacv.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/david-silva-048b1021a/) &nbsp;·&nbsp; ✍️ [BlogDavid](https://www.blogdavid.cv)
 
----
-
-<h4 align="center">"A tecnologia é a ponte entre as grandes ideias e a realidade."</h4>
+<p align="center"><sub>Entre hardware e software, sempre a construir pontes.</sub></p>
